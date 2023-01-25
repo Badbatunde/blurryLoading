@@ -14,7 +14,7 @@ body {
   margin: 0;
 }
 
-.bg {
+.background {
   background: url("/image/dell-0J8thHZfosE-unsplash.jpg") center/cover;
   background-position: center;
   position: absolute;
@@ -24,7 +24,7 @@ body {
   filter: blur(0px);
 }
 
-.loading-text {
+.text {
   font-size: 50px;
   color: #fff;
 }
