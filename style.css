@@ -15,7 +15,7 @@ body {
 }
 
 .background {
-  background: url("/image/dell-0J8thHZfosE-unsplash.jpg") center/cover;
+  background: url("\image/dell-0J8thHZfosE-unsplash.jpg") center/cover;
   background-position: center;
   position: absolute;
   width: 100vw;
