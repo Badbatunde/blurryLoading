@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=DM+Sans:wght@400;700&family=Inter:wght@400;700&family=Manrope:wght@400;700&family=Mulish&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.bg {
+  background: url("/image/dell-0J8thHZfosE-unsplash.jpg") center/cover;
+  background-position: center;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  filter: blur(0px);
+}
+
+.loading-text {
+  font-size: 50px;
+  color: #fff;
+}
